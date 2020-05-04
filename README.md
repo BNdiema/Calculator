@@ -1,9 +1,9 @@
 # Portfolio Webpage
-#### A Webpage giving a detailed footprint of, who I am my, Job experience, Education background, aquired skills, Intrests and Hobbies with a track of my projects in Softwear development, {Date of current version
-Here is a link to my working [portfolio](https://bndiema.github.io/My-portfolio/)
+#### Calculator is an app that enables you to momathematical equestions. Developed in 2020.
+Here is a link to my working [Calculator](https://bndiema.github.io/My-portfolio/)
 #### By Brian Ndiema}
 ## Description
-This Webpage is used to show case my skills and ability in verious fields, but giving an in depth view in Softwear development. It provides a platform to showcase some of my work in coding and sowtwear development.
+This is an app rhat enables you to do mathematical eqestions on, addition, subtraction, divistion and matiplication. 
 ## Setup/Installation Requirements
 * Have a web browser installed  
 * Accsess to internet connection
@@ -12,7 +12,7 @@ This Webpage is used to show case my skills and ability in verious fields, but g
 Class center in css couldint work on high.jpeg
 Link onthe LICENCE couldint work
 ## Technologies Used
-Used HTML, CSS and MARKDOWN language.
+Used HTML, CSS, MARKDOWN  and JavaSript language.
 ## Support and contact details
 Yor are invited to make a contribution to the code. You can reach me on the contact information for any clerification
 ### License
